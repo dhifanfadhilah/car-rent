@@ -1,2 +1,2 @@
 # car-rent
-An car rental application created using java GUI. This application is designed to record all things in car rental, ranging from employees, customers, cars, to transactions.
+This application is a car rental application made using the java programming language by implementing OOP and GUI. This application provides all the data needed by car rental companies, ranging from employee data, customer data, car data, to transaction data.
